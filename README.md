@@ -1,5 +1,5 @@
 ### Olá, eu sou a Nathalia.
--👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (1° período) </br>
+-👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (4° período) </br>
 -📚 Aprendendo: </br>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /> <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
